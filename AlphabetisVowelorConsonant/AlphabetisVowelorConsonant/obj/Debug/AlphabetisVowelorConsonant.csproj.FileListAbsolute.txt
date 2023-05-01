@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\bin\Debug\AlphabetisVowelorConsonant.exe.config
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\bin\Debug\AlphabetisVowelorConsonant.exe
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\bin\Debug\AlphabetisVowelorConsonant.pdb
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\obj\Debug\AlphabetisVowelorConsonant.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\obj\Debug\AlphabetisVowelorConsonant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\obj\Debug\AlphabetisVowelorConsonant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\obj\Debug\AlphabetisVowelorConsonant.exe
+C:\Users\Admin\Documents\vowel or Consonent\AlphabetisVowelorConsonant\AlphabetisVowelorConsonant\obj\Debug\AlphabetisVowelorConsonant.pdb
